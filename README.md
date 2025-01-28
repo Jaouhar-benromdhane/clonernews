@@ -16,4 +16,4 @@ ClonerNews is a web application that serves as a user-friendly interface for the
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/clonernews.git
+   https://github.com/Jaouhar-benromdhane/clonernews.git
